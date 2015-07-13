@@ -4,5 +4,9 @@
 
 A curated list of useful products for Modern Healthcare's codebase.
 
+## Table of Contents
+- [Deployment](#deployment)
+
+### Deployment
 - [ClickDeploy](https://clickdeploy.co/)
 - [DelpoyBot](https://deploybot.com/)
