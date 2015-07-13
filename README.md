@@ -2,7 +2,7 @@
 
 > The leader in healthcare business news, research & data
 
-All of Modern Healthcare's documentation one place.
+A curated list of useful products for Modern Healthcare's codebase.
 
 - [ClickDeploy](https://clickdeploy.co/)
 - [DelpoyBot](https://deploybot.com/)
